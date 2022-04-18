@@ -1,0 +1,4 @@
+SOURCE = \
+postChannelBudgetFoam.C \
+channelIndex.C \
+version_of_build.rc
